@@ -1,0 +1,19 @@
+<craft name="grow-layout">
+    <parameter name="percent" type="float" default="1.2"/>
+    <content></content>
+    <script>
+        function main(params, scope){
+            var n = scope.solids.length
+ 
+            var size = 1
+            
+           for (var i = 0; i < n; i++) {
+                var solid = scope.solids[i]
+ 
+                solid.scale(size)
+                
+                size = size * params.percent
+            }
+        }
+    </script>
+</craft>

@@ -1,0 +1,22 @@
+{
+  "name": "grow-layout",
+  "version": "1.0.0",
+  "description": "Parameterized grow / shrink layout for CraftML",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/calebhsu/grow-layout.git"
+  },
+  "keywords": [
+    "craftml"
+  ],
+  "author": "Caleb Hsu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/calebhsu/grow-layout/issues"
+  },
+  "homepage": "https://github.com/calebhsu/grow-layout"
+}
