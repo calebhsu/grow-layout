@@ -1,5 +1,5 @@
 # grow-layout
-Grow/shrink function for CraftML
+Parameterized grow/shrink function for CraftML
 
 ### Install
     $ npm install grow-layout
@@ -29,7 +29,7 @@ Grow/shrink function for CraftML
             </grow-layout> 
         </row>
     </col>
-    
+
 </craft>
 ```
 
