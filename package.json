@@ -1,6 +1,6 @@
 {
   "name": "grow-layout",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Parameterized grow / shrink layout for CraftML",
   "main": "index.js",
   "scripts": {

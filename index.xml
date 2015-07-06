@@ -1,5 +1,5 @@
 <craft name="grow-layout">
-    <parameter name="percent" type="float" default="1.2"/>
+    <parameter name="factor" type="float" default="1.2"/>
     <content></content>
     <script>
         function main(params, scope){
@@ -12,7 +12,7 @@
  
                 solid.scale(size)
                 
-                size = size * params.percent
+                size = size * params.factor
             }
         }
     </script>
