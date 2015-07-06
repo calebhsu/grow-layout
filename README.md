@@ -5,7 +5,7 @@ Parameterized grow/shrink function for CraftML
     $ npm install grow-layout
 
 ### Parameters
-- factor: adjusts percentage of growth / shrinkage
+- factor: adjusts scale of growth / shrinkage
 
 ### Example
 ```html
