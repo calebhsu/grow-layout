@@ -1,8 +1,8 @@
-<craft name="grow-layout">
+<craft name="grow">
     <parameter name="factor" type="float" default="1.2"/>
-    <parameter name="xfactor" type="float" default="1.2"/>
-    <parameter name="yfactor" type="float" default="1.2"/>
-    <parameter name="zfactor" type="float" default="1.2"/>
+    <parameter name="xfactor" type="float" default="1"/>
+    <parameter name="yfactor" type="float" default="1"/>
+    <parameter name="zfactor" type="float" default="1"/>
     <content></content>
     <script>
         function main(params, scope){
