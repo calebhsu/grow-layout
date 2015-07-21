@@ -1,8 +1,13 @@
 # grow-layout
 Parameterized grow/shrink function for CraftML
 
-### Install
-    $ npm install grow-layout
+### Usage
+```html
+<craft>
+    <craft name="grow-layout" module="grow-layout"/>
+    <grow-layout></grow-layout>
+</craft>
+```
 
 ### Parameters
 - factor: adjusts overall scale of growth / shrinkage
